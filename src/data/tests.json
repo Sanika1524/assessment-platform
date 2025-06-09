@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "testName": "JavaScript Basics",
+    "description": "Test your JS fundamentals",
+    "mcqs": [
+      {
+        "question": "What is a closure?",
+        "options": [
+          "A function bundled with lexical environment",
+          "A block of code",
+          "An object method",
+          "None of the above"
+        ]
+      }
+    ],
+    "codingQuestions": [
+      {
+        "problem": "Write a function to reverse a string."
+      }
+    ]
+  }
+]
